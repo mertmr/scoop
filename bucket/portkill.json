@@ -6,7 +6,7 @@
     "architecture": {
       "64bit": {
         "url": "https://github.com/mertmr/portkill/releases/download/v0.1.2/portkill_Windows_x86_64.zip",
-        "hash": "D7EA26548ABFA4AD227FC986B6C912ABFA628AA66F1301CBAEEC39D8E4C679BE"
+        "hash": "BB783DB4920F0B2D8B03B6D0DBDFE343E881F939A6AEEAA630E79EC3BC7F973E"
       }
     },
     "bin": "portkill.exe"
